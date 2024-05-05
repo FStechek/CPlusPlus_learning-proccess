@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(int argc, char *argv[]) {
-  std::cout << (char)171;
+  std::cout << (char)69;
 
   return 0;
 }
